@@ -1,0 +1,72 @@
+[[libasyncns]]
+arch = "aarch64"
+git-tree-sha1 = "b9b3ff520ea6a3eb057c05e6c159d296fcf0c39d"
+libc = "glibc"
+os = "linux"
+
+    [[libasyncns.download]]
+    sha256 = "baf1924415c9e43ee8c119396cf25e99d64ad8bbeb962e426600f4234376ce4c"
+    url = "https://github.com/JuliaBinaryWrappers/libasyncns_jll.jl/releases/download/libasyncns-v0.8.0+0/libasyncns.v0.8.0.aarch64-linux-gnu.tar.gz"
+[[libasyncns]]
+arch = "aarch64"
+git-tree-sha1 = "2dc9f6cc4c0751355936d907ca31ce006999f4df"
+libc = "musl"
+os = "linux"
+
+    [[libasyncns.download]]
+    sha256 = "b248d894eec67d48dd2a64e2d12da8a70b72fb3dbf65f86aaec14878f37d75f7"
+    url = "https://github.com/JuliaBinaryWrappers/libasyncns_jll.jl/releases/download/libasyncns-v0.8.0+0/libasyncns.v0.8.0.aarch64-linux-musl.tar.gz"
+[[libasyncns]]
+arch = "armv7l"
+git-tree-sha1 = "37f45ad5670404ef6c775982b4a8b59de1bc32e4"
+libc = "glibc"
+os = "linux"
+
+    [[libasyncns.download]]
+    sha256 = "2f18043f8b73b92663c8f30ac11b2d42c598d0911b245155319fb64245741ea8"
+    url = "https://github.com/JuliaBinaryWrappers/libasyncns_jll.jl/releases/download/libasyncns-v0.8.0+0/libasyncns.v0.8.0.armv7l-linux-gnueabihf.tar.gz"
+[[libasyncns]]
+arch = "armv7l"
+git-tree-sha1 = "31c02c001dc821c87050143644ede39db3296407"
+libc = "musl"
+os = "linux"
+
+    [[libasyncns.download]]
+    sha256 = "bccff0a785202a9f83a1d9666b117838c46ad3e0f6b20313f84756dd19e1d95b"
+    url = "https://github.com/JuliaBinaryWrappers/libasyncns_jll.jl/releases/download/libasyncns-v0.8.0+0/libasyncns.v0.8.0.armv7l-linux-musleabihf.tar.gz"
+[[libasyncns]]
+arch = "i686"
+git-tree-sha1 = "4b0431ed26112d5286b60506035dbd49969b34d5"
+libc = "glibc"
+os = "linux"
+
+    [[libasyncns.download]]
+    sha256 = "795e345caa7ef0fdfc8818f902c02a6a3614873a689fc6dbcfa01216347b22d6"
+    url = "https://github.com/JuliaBinaryWrappers/libasyncns_jll.jl/releases/download/libasyncns-v0.8.0+0/libasyncns.v0.8.0.i686-linux-gnu.tar.gz"
+[[libasyncns]]
+arch = "i686"
+git-tree-sha1 = "88bc7ecea361ceba017598d0c9742b31e05c617f"
+libc = "musl"
+os = "linux"
+
+    [[libasyncns.download]]
+    sha256 = "22f6125b277f8d53cc3e16c7f70244341a30e72233d4982ed2aff00d310f840a"
+    url = "https://github.com/JuliaBinaryWrappers/libasyncns_jll.jl/releases/download/libasyncns-v0.8.0+0/libasyncns.v0.8.0.i686-linux-musl.tar.gz"
+[[libasyncns]]
+arch = "x86_64"
+git-tree-sha1 = "a060c48acc19442c7d69f27469fa408ee6401af2"
+libc = "glibc"
+os = "linux"
+
+    [[libasyncns.download]]
+    sha256 = "64c56de40733c31ae7597927f98ba1b8c623739833c58cb26c8f650dd9d2d12b"
+    url = "https://github.com/JuliaBinaryWrappers/libasyncns_jll.jl/releases/download/libasyncns-v0.8.0+0/libasyncns.v0.8.0.x86_64-linux-gnu.tar.gz"
+[[libasyncns]]
+arch = "x86_64"
+git-tree-sha1 = "b7de7d3a5999ab8a702bbbac399b360b97100b64"
+libc = "musl"
+os = "linux"
+
+    [[libasyncns.download]]
+    sha256 = "356ffeb2300612e30296e9c4dd051efc02b3adf7539f263d36ecd164e1c60112"
+    url = "https://github.com/JuliaBinaryWrappers/libasyncns_jll.jl/releases/download/libasyncns-v0.8.0+0/libasyncns.v0.8.0.x86_64-linux-musl.tar.gz"
